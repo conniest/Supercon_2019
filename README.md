@@ -4,6 +4,7 @@
 ### Reflash badge:
 
 dfu-util -a 0 -D soc.bit
+
 dfu-util -a 1 -D ipl.bin
 
 
